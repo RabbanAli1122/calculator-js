@@ -1,7 +1,9 @@
 # 🧮 JavaScript Calculator
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-rabbanali1122.github.io-blue)](https://rabbanali1122.github.io/calculator-js/)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![HTML](https://img.shields.io/badge/HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 A responsive, sleek calculator built using JavaScript, HTML, and CSS. It performs real-time arithmetic operations, handles user interactions with buttons, and features a modern UI styled with Google Fonts and gradients.
 
