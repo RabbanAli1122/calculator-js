@@ -32,7 +32,7 @@ A responsive, sleek calculator built using JavaScript, HTML, and CSS. It perform
 
 ## 📺 Live Demo
 
-👉 [Click Here to Try It Live](https://rabbanali1122.github.io/javascript_calculator/)
+👉 [Click Here to Try It Live](https://rabbanali1122.github.io/calculator-js/)
 
 
 ## 🛠️ Technologies Used
